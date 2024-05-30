@@ -1,0 +1,22 @@
+// this program is to print Helloworld on screen
+
+/**
+ * Helloworld
+ */
+public class Helloworld {
+
+    public static void main(String[] args) {
+        System.out.println("Hello world!\n");
+        System.out.println("Welcome to CHina\n");
+        System.out.println("**********************\n");
+    }
+}
+
+
+--------------- 执行结果 -----------
+
+Hello world!
+
+Welcome to CHina
+
+**********************
