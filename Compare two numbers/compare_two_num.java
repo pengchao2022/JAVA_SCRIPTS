@@ -28,10 +28,14 @@ public class comparenumbers {
         if(num1 < num2)
             System.out.println("max= "+ num2);
         
-        else
-            System.out.println(num1 + "=" + num2);
+        else if (num1 == num2) {
 
+            System.out.println(num1 + "=" + num2);
             
+        }
+            
+
+
 
 
 
